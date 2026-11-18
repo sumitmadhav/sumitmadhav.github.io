@@ -42,8 +42,8 @@ Objective: Refresh and maintain the portfolio to represent Sumit’s Data Analys
 - Advanced technical capabilities: VBA programming, dimensional modeling, RFM analysis, signal processing
 
 ## Profile Summary
-- Name: Sumit Suresh Madhav | Title: Data Analyst | Location: Dallas, TX
-- Contact: +1 (813) 797-9411 | madhavsumit369@gmail.com
+- Name: Sumit Suresh Madhav | Title: Data Analyst | Location: Mumbai, IN
+- Contact: +91 (992)-091-2407 | sumit11bhaga@gmail.com
 - Summary: 8+ years; SQL, Python, Tableau/Power BI; forecasting, regression, A/B testing; automated reporting & KPI design.
 
 ## Experience Highlights
