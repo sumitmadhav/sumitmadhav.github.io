@@ -1,4 +1,4 @@
-# Sumit Suresh Madhav – Portfolio Website
+# Sumit Madhav – Portfolio Website
 
 A modern, JSON-driven portfolio showcasing Data Analytics experience, projects, and skills.
 
