@@ -2,11 +2,11 @@
   "profile": {
     "name": "Sumit Madhav",
     "title": "Data Analyst",
-    "organization": "Mumbai, IN | 8+ Years Experience",
+    "organization": "Mumbai, IN | 7 Years Experience",
     "profileImage": "assets/sumit-profile.jpg",
     "cvPath": "assets/Sumit_DA_Resume.pdf",
     "metrics": [
-      "8+ Years Experience",
+      "7 Years Experience",
       "12M+ Txns/Day Pipelines",
       "90% Fewer Manual Reports",
       "40% Faster SQL Reconciliations"
@@ -14,7 +14,7 @@
   },
 
   "bio": {
-    "introduction": "<span class=\"highlight\">Data Analyst</span> with <span class=\"highlight\">8+ years</span> of experience turning complex data into actionable insights that drive strategic decision-making. Highly skilled in <span class=\"highlight\">SQL, Python, Tableau, and Excel</span> with proven impact across finance and healthcare.",
+    "introduction": "<span class=\"highlight\">Data Analyst</span> with <span class=\"highlight\">7 years</span> of experience turning complex data into actionable insights that drive strategic decision-making. Highly skilled in <span class=\"highlight\">SQL, Python, Tableau, and Excel</span> with proven impact across finance and healthcare.",
     "background": "Expertise spans <span class=\"highlight\">data cleaning & wrangling, statistical analysis, A/B testing, regression modeling, and forecasting</span>. Adept at building automated reporting, KPI frameworks, and stakeholder-ready dashboards that improve performance and reduce manual effort.",
     "researchFocus": "Professional focus on <span class=\"highlight\">risk and compliance analytics</span>, <span class=\"highlight\">time-series forecasting</span>, and <span class=\"highlight\">decision support dashboards</span>. Comfortable across the stack from SQL optimization to BI development and data pipeline automation."
   },
@@ -308,6 +308,13 @@
   "certifications": [],
 
   "education": [
+    {
+      "degree": "Doctorate in Buisness Adminstration",
+      "institution": "Westcliff University",
+      "location": "Irvine, CA",
+      "year": "Sep 2024",
+      "logo": "images/edu/south-university.png"
+    },
     {
       "degree": "Master's in Information System",
       "institution": "South University",
